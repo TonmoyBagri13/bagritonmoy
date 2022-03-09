@@ -13,3 +13,4 @@ let [th,four,fif] = arr;
 console.log("using deconstructor method");
 
 console.log(th);
+//prb:
